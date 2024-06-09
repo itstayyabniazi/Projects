@@ -1,0 +1,24 @@
+Project: College Transport System (CTS)
+-----------------------------------------------------------------------------
+Simply, you have to run the "main.py" file. 
+Its has a Graphical User Interferance, so will show the Menu.
+The system have following Entities;
+1. Admin
+2. Driver
+3. Student
+-----------------------------------------------------------------------------
+Functions dedicated to Admin:
+1. Can view Registered Drivers, Students and available Time Slots.
+2. Can Add new Drivers, Students and Time Slots.
+
+Functions dedicated to Driver:
+1. Can Change Password 
+2. Can view Booked seats & Students who have booked.
+
+Functions dedicated to Students:
+1. Can Book a Ride
+2. Can Cancel the Ride
+
+-----------------------------------------------------------------------------
+Moreover, Some special fonts are used which are present in Asset folder.
+1. Itim
