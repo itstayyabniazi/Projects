@@ -14,7 +14,7 @@ This System is Digitalizing the traditional System of Van in our Colleges and Sc
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+<img src="https://img.shields.io/github/last-commit/ParthJadha/Tkinter-Designer">
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
