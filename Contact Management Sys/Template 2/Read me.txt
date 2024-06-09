@@ -1,0 +1,12 @@
+Assingment: Contact Management System
+Simply, you have to run the "CMS GUI.py" file. Its has a Graphical User Interferance,
+so will ask for CSV file. It will perform following actions;
+1. Delete Cantacts having same names.
+2. Delete Contacts having empty Phone Number.
+3. If any contact have empty Email, it will ask for Email ID.
+
+There is also "CMS CLI" file that will run on Terminal.
+
+Some special fonts are used whch are present in Asset folder.
+1. Itim
+2. JejuHallasan
