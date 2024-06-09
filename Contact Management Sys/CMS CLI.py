@@ -10,7 +10,7 @@ file = open(input_file, mode='r', newline='')
 csv_reader = csv.DictReader(file)
 # Create a list to hold the dictionaries
 data = []
-# Iterate over each row and add it to the list
+
 for row in csv_reader:
     data.append(row)
 
