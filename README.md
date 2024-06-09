@@ -19,13 +19,13 @@ Mainly these programmes are wrriten in Python. The GUI of these Window applicati
 
 ## Demo
 
- - [College Transport System](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [College Transport System](https://awesomeopensource.com/project/elangosundar/awesome-README-templates) <br>
+   ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+ - [Contact Management System](https://awesomeopensource.com/project/elangosundar/awesome-README-templates) <br>
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
- - [Contact Management System](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
- - [Electronic Voting Machine](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Electronic Voting Machine](https://awesomeopensource.com/project/elangosundar/awesome-README-templates) <br>
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## 🚀 About Me
